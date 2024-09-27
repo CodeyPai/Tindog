@@ -24,17 +24,17 @@
   border-radius: 50%;
 }
 
-.bg-light {
-  background-color: #eaeced !important;
+.bg-back {
+  background-color: rgb(239, 240, 252) !important;
 }
 
 .col-text {
-  color: #784BA0;
+  color: hsl(273, 38%, 69%);
 
 }
 
 .bg-col {
-  background-color: #784BA0;
+  background-color: hsl(273, 38%, 69%);
 }
 
 .icon-square {
